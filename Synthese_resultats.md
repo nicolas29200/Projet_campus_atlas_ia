@@ -51,6 +51,8 @@ Le CA de la région Sud est plus élevé que celui de la région nord, c'est ég
 
 ## 2. Exploration du jeu de données avec Pandas
 
+Cette partie a été réalisée dans le script `app.py`
+
 Tableau récapitulatif consolidé (valeurs arrondies à 2 décimales) :
 
 | Produit | CA moyen (€) | CA médian (€) | Volume moyen | Volume médian | Écart-type volume | Variance volume |
@@ -77,6 +79,8 @@ NB: coefficient de variation : Ecart-type / Moyenne
 Bien que l'écart type du **Produit C** soit le plus faible, si on prend en compte la moyenne respective du volume pour les produits, on se rend compte que c'est le **Produit B** qui a les ventes les plus stables et le **Produit C** qui a les ventes les plus variables.
 
 ## 3. Produit le plus et le moins vendu (python natif)
+
+Cette partie a été réalisée dans le script `app_2.py`
 
 Volume total d'unités vendues par produit :
 
